@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rayma-client-test-v19.12/static/css/main.1a77ce4d.css",
+    "main.js": "/rayma-client-test-v19.12/static/js/main.723ffee2.js",
+    "static/media/login.png": "/rayma-client-test-v19.12/static/media/login.eb6f1efee1db444baa98.png",
+    "static/media/neonRaymaLogo.png": "/rayma-client-test-v19.12/static/media/neonRaymaLogo.1a5e9e0bec32e3788104.png",
+    "static/media/privacy.png": "/rayma-client-test-v19.12/static/media/privacy.e8707a2b5f7ec72edda7.png",
+    "static/media/aboutUs.jpg": "/rayma-client-test-v19.12/static/media/aboutUs.5599ac4f73696dba81b5.jpg",
+    "static/media/IRANYekanXNoEn-Regular.woff": "/rayma-client-test-v19.12/static/media/IRANYekanXNoEn-Regular.84f1cbd7a6ac99eef606.woff",
+    "static/media/networkError.svg": "/rayma-client-test-v19.12/static/media/networkError.8b24814060e911cee2d08c6bf3831f19.svg",
+    "static/media/exit.png": "/rayma-client-test-v19.12/static/media/exit.c919f6ff8d42588d8030.png",
+    "static/media/appIcon.webp": "/rayma-client-test-v19.12/static/media/appIcon.5a8293d4a52466ba674c.webp",
+    "static/media/order.svg": "/rayma-client-test-v19.12/static/media/order.7197dfc900df2629c80623c31c0c16f5.svg",
+    "index.html": "/rayma-client-test-v19.12/index.html",
+    "static/media/invoice.svg": "/rayma-client-test-v19.12/static/media/invoice.6f27b82866df803332444fb230104736.svg",
+    "static/media/wave.svg": "/rayma-client-test-v19.12/static/media/wave.000ad83c88015414f42b003cac280322.svg",
+    "main.1a77ce4d.css.map": "/rayma-client-test-v19.12/static/css/main.1a77ce4d.css.map",
+    "main.723ffee2.js.map": "/rayma-client-test-v19.12/static/js/main.723ffee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a77ce4d.css",
+    "static/js/main.723ffee2.js"
+  ]
+}
